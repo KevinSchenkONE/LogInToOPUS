@@ -10,7 +10,7 @@
   },
   "schemaVersion": "3.2",
   "studioVersion": "18.4.3.0",
-  "projectVersion": "1.0.7051.28462",
+  "projectVersion": "1.0.7066.22854",
   "runtimeOptions": {
     "autoDispose": false,
     "excludedLoggedData": [
@@ -58,6 +58,12 @@
       {
         "name": "in_OPUS_Production_Credentials_location",
         "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+        "required": false,
+        "hasDefault": true
+      },
+      {
+        "name": "in_maximizeOPUSwindow",
+        "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
         "required": false,
         "hasDefault": true
       }
