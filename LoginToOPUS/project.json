@@ -3,14 +3,14 @@
   "description": "logs in to OPUS. Uses Orchestrator Assets: OPUSCredentials-Production, OPUSCredentials-Test, OPUSURL-Production, OPUSURL-Test",
   "main": "Log In To OPUS.xaml",
   "dependencies": {
-    "UiPath.UIAutomation.Activities": "18.4.3",
-    "UiPath.System.Activities": "18.4.2",
-    "UiPath.Excel.Activities": "2.5.1",
-    "UiPath.Mail.Activities": "1.3.0"
+    "UiPath.UIAutomation.Activities": "19.10.1",
+    "UiPath.System.Activities": "19.10.1",
+    "UiPath.Excel.Activities": "2.7.2",
+    "UiPath.Mail.Activities": "1.7.2"
   },
   "schemaVersion": "3.2",
   "studioVersion": "18.4.3.0",
-  "projectVersion": "1.0.7100.25395",
+  "projectVersion": "1.0.7354.29391",
   "runtimeOptions": {
     "autoDispose": false,
     "excludedLoggedData": [
@@ -53,7 +53,7 @@
     "output": [
       {
         "name": "out_oBrowser",
-        "type": "UiPath.Core.Browser, UiPath.UiAutomation.Activities, Version=18.4.3.0, Culture=neutral, PublicKeyToken=null"
+        "type": "UiPath.Core.Browser, UiPath.UiAutomation.Activities, Version=19.10.1.0, Culture=neutral, PublicKeyToken=null"
       }
     ]
   }
